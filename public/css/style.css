@@ -1,0 +1,25 @@
+.custom-text{
+    text-decoration: none !important;
+    color: #000 !important;
+}
+
+.custom-text:visited, .custom-text:hover, .custom-text:active{
+    text-decoration: none !important;
+    color: #000 !important;
+}
+
+/*a:link {*/
+/*    text-decoration: none;*/
+/*}*/
+
+/*a:visited {*/
+/*    text-decoration: none;*/
+/*}*/
+
+/*a:hover {*/
+/*    text-decoration: none;*/
+/*}*/
+
+/*a:active {*/
+/*    text-decoration: none;*/
+/*}*/
